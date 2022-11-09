@@ -1,0 +1,1 @@
+<div class="mt-6 sm:mt-8 h-0.5 bg-pink-500 w-16"></div>
