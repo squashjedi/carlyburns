@@ -1,10 +1,10 @@
 <div class="relative">
-    <div class="relative shadow-xl h-[500px] md:h-screen">
+    <div class="relative shadow-xl h-[500px] sm:h-[800px] md:h-[1000px]">
         <div class="absolute inset-0">
             <img class="h-full w-full object-cover object-top sm:object-center" src="<?php echo get_theme_file_uri('images/carly-burns-main-banner.jpeg'); ?>" />
             <div class="absolute inset-0 bg-gray-000 mix-blend-multiply"></div>
         </div>
-        <div class="relative max-w-7xl mx-auto px-6 pt-28 sm:pt-80">
+        <div class="relative max-w-7xl mx-auto px-6 pt-16 sm:pt-36 md:pt-48">
             <div class="text-5xl sm:text-6xl md:text-7xl lg:text-8xl xl:text-9xl font-bold tracking-tight text-white">
                 <div class="">Carly</div>
                 <div class="">Burns</div>
