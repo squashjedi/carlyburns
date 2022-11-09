@@ -1,5 +1,5 @@
 <div class="relative">
-    <div class="relative shadow-xl h-[500px] sm:h-[800px] md:h-[1000px]">
+    <div class="relative shadow-xl h-[500px] sm:h-[700px] md:h-[1000px]">
         <div class="absolute inset-0">
             <img class="h-full w-full object-cover object-top sm:object-center" src="<?php echo get_theme_file_uri('images/carly-burns-main-banner.jpeg'); ?>" />
             <div class="absolute inset-0 bg-gray-000 mix-blend-multiply"></div>
