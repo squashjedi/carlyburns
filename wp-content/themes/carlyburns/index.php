@@ -179,7 +179,7 @@
             </div>
         </div>
         <div class="text-center text-sm mt-16 text-gray-600">
-            Copyright © <?php echo date("Y"); ?>  carlyburns.com. All Rights Reserved.
+            Copyright © <?php echo date("Y"); ?>  carlyburns.com.<br />All Rights Reserved.
         </div>
         <div class="text-center text-xs text-gray-400 mt-2 mb-16">Created by <a href="http://paullord.uk">Paul Lord<a></div>
 
