@@ -127,7 +127,9 @@
                 <div class="grid lg:grid-cols-5 gap-16">
                     <div class="lg:col-span-3">
                         <div class="prose">
-                            <h3 class="text-xl font-bold mt-0"><?php echo $about_me['about_me_subtitle']; ?></h3>
+                            <?php if ($about_me['about_me_subtitle']) { ?>
+                                <h3 class="text-xl font-bold mt-0"><?php echo $about_me['about_me_subtitle']; ?></h3>
+                            <?php } ?>
                             <?php echo $about_me['about_me_content']; ?>
                         </div>
                     </div>
